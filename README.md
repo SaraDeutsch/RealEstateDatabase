@@ -1,6 +1,6 @@
 # Real Estate Database
 
-!["C:\Users\T460\Downloads\Sara Deutsch.png"](relative%20path/to/img.jpg?raw=true "Title")
+![alt text](https://github.com/[SaraDeutsch]/[RealEstateDatabase]/blob/[Sara Deutsch.png]/image.jpg?raw=true)
 In this project, I created a Microsoft Access database for a realestate company using VBA and SQLServer. 
 
 ## Description
