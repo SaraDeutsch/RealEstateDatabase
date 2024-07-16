@@ -1,6 +1,5 @@
-# Real Estate Database
-
 ![Logo](Logo.png)
+# Real Estate Database
 
 In this project, I created a Microsoft Access database for a realestate company using VBA and SQLServer. 
 
