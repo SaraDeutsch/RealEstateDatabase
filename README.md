@@ -1,4 +1,4 @@
-![Logo](Logo.png)
+![Logo](Sara Deutsch.png)
 # Real Estate Database
 
 In this project, I created a Microsoft Access database for a realestate company using VBA and SQLServer. 
