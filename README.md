@@ -1,6 +1,6 @@
 # Real Estate Database
 
-!Logo(https://github.com/SaraDeutsch/RealEstateDatabase/blob/Sara Deutsch.png/image.jpg?raw=true)
+!Logo(https://github.com/SaraDeutsch/RealEstateDatabase/blob/Logo.png/image.jpg?raw=true)
 In this project, I created a Microsoft Access database for a realestate company using VBA and SQLServer. 
 
 ## Description
